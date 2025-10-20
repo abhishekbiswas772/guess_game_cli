@@ -45,6 +45,7 @@ Fastest time (used as a tiebreaker)
 
 Example output:
 
+`
 ========================================
 HIGH SCORES
 ========================================
@@ -52,6 +53,7 @@ Easy: 4 attempts in 15.23 seconds
 Medium: No games played yet
 Hard: No games played yet
 ========================================
+`
 
 🧩 Code Structure
 guess_game.py
